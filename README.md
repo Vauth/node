@@ -14,8 +14,3 @@ https://raw.fastgit.org/Vauth/node/main/Mass
 ```html
 https://raw.fastgit.org/Vauth/node/main/Pro
 ```
-
-### Temp:
-```html
-https://raw.fastgit.org/Vauth/node/main/Temp
-```
