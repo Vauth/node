@@ -2,10 +2,10 @@
 
 ### Main:
 ```html
-https://raw.fastgit.org/Vauth/node/main/Main
+https://github.com/Vauth/node/raw/main/Main
 ```
 
 ### Pro:
 ```html
-https://raw.fastgit.org/Vauth/node/main/Pro
+https://github.com/Vauth/node/raw/main/Pro
 ```
