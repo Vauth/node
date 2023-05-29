@@ -1,11 +1,11 @@
 # Subscription Links:
 
-### Main:
+### Main (Vmess):
 ```html
 https://github.com/Vauth/node/raw/main/Main
 ```
 
-### Pro:
+### Pro (Trojan):
 ```html
 https://github.com/Vauth/node/raw/main/Pro
 ```
