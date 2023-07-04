@@ -10,6 +10,11 @@ https://github.com/Vauth/node/raw/main/Main
 https://github.com/Vauth/node/raw/main/Pro
 ```
 
+### Best (Mix):
+```html
+https://odium.us/v.txt
+```
+
 <br>
 
 ## Best Clients:
