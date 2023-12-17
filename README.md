@@ -10,9 +10,14 @@ https://github.com/Vauth/node/raw/main/Main
 https://github.com/Vauth/node/raw/main/Pro
 ```
 
-### Best (Mix):
+### Best (Vmess):
 ```html
 https://odium.us/v.txt
+```
+
+### Odium (Mix):
+```html
+https://odium.us/v2.txt
 ```
 
 <br>
