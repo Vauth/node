@@ -1,6 +1,5 @@
 # Subscription Links:
 
-
 ### ⭐ 1st (Vmess):
 ```html
 https://odium.us/v.txt
@@ -37,10 +36,4 @@ https://github.com/Vauth/node/raw/main/Pro
 
 <br>
 
-<h3 align="center">
-  <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
-    <mtext mathvariant="sans-serif" mathcolor="#8B0000">Bridging the Global Network Divide</mtext>
-  </mrow>
-</math>
-</h3>
+### $$\Bbb{\Huge{Bridging \space the \space Global \space Network \space Divide}}$$
