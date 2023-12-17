@@ -1,24 +1,28 @@
 # Subscription Links:
 
-### Main (Vmess):
-```html
-https://github.com/Vauth/node/raw/main/Main
-```
 
-### Pro (Trojan):
-```html
-https://github.com/Vauth/node/raw/main/Pro
-```
-
-### Best (Vmess):
+### ⭐ 1st (Vmess):
 ```html
 https://odium.us/v.txt
 ```
 
-### Odium (Mix):
+### ⭐ 2nd (Mix):
 ```html
 https://odium.us/v2.txt
 ```
+
+<br>
+
+### ◻ 3rd (Vmess):
+```html
+https://github.com/Vauth/node/raw/main/Main
+```
+
+### ◻ 4th (Trojan):
+```html
+https://github.com/Vauth/node/raw/main/Pro
+```
+
 
 <br>
 
