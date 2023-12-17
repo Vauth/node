@@ -23,7 +23,6 @@ https://github.com/Vauth/node/raw/main/Main
 https://github.com/Vauth/node/raw/main/Pro
 ```
 
-
 <br>
 
 ## Best Clients:
@@ -35,3 +34,13 @@ https://github.com/Vauth/node/raw/main/Pro
 | Windows |   Clash For Windows - V2rayN - Nekoray |
 |  Linux  |      Clash For Windows - Nekoray       |
 |  MacOS  |           Clash For Windows            |
+
+<br>
+
+<h3 align="center">
+  <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext mathvariant="sans-serif" mathcolor="#8B0000">Bridging the Global Network Divide</mtext>
+  </mrow>
+</math>
+</h3>
