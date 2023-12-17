@@ -36,4 +36,4 @@ https://github.com/Vauth/node/raw/main/Pro
 
 <br>
 
-### $$\Bbb{\Huge{Bridging \space the \space Global \space Network \space Divide}}$$
+### $$\boxed{\Bbb{\Huge{\color{red} Bridging \space the \space Global \space Network \space Divide}}}$$
