@@ -12,12 +12,12 @@ https://odium.us/v.txt
 https://odium.us/v2.txt
 ```
 
-### ◻ 3rd (Vmess):
+### ◻️ 3rd (Vmess):
 ```html
 https://github.com/Vauth/node/raw/main/Main
 ```
 
-### ◻ 4th (Trojan):
+### ◻️ 4th (Trojan):
 ```html
 https://github.com/Vauth/node/raw/main/Pro
 ```
