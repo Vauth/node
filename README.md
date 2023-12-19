@@ -29,7 +29,7 @@ https://github.com/Vauth/node/raw/main/Pro
 |    OS   |                   Client               |
 |:-------:|:--------------------------------------:|
 |   IOS   |        Quantumult - Shadowrocket       |
-| Android |Surfboard - Clash For Android - Matsuri |
+| Android |      Surfboard - V2rayNG - Matsuri     |
 | Windows |   Clash For Windows - V2rayN - Nekoray |
 |  Linux  |      Clash For Windows - Nekoray       |
 |  MacOS  |           Clash For Windows            |
