@@ -4,12 +4,12 @@
 
 ### ⭐ 1st (Vmess):
 ```html
-https://odium.us/v.txt
+https://hueco.link/v.txt
 ```
 
 ### ⭐ 2nd (Mix):
 ```html
-https://odium.us/v2.txt
+https://hueco.link/v2.txt
 ```
 
 ### ◻️ 3rd (Vmess):
