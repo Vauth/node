@@ -1,5 +1,4 @@
 # Subscription Links:
-
 <br>
 
 ### ⭐ 1st (Vmess):
@@ -22,7 +21,7 @@ https://github.com/Vauth/node/raw/main/Main
 https://github.com/Vauth/node/raw/main/Pro
 ```
 
-### 🚀 Desktop:
+### 🚀 Desktop (x64):
 ```html
 https://github.com/Vauth/node/releases/download/vox/Vox-test-1.0.exe
 ```
