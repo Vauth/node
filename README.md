@@ -1,24 +1,19 @@
 # Subscription Links:
 <br>
 
-### ⭐ 1st (Vmess):
+### ⭐ 1st (Worker):
 ```html
 https://hueco.link/v.txt
 ```
 
-### ⭐ 2nd (Mix):
-```html
-https://hueco.link/v2.txt
-```
-
-### ◻️ 3rd (Vmess):
+### ◻️ 2nd (Vless):
 ```html
 https://github.com/Vauth/node/raw/main/Main
 ```
 
-### ◻️ 4th (Trojan):
+### ◻️ 3rd (Vmess):
 ```html
-https://github.com/Vauth/node/raw/main/Pro
+https://github.com/Vauth/node/raw/main/Master
 ```
 
 ### 🚀 Desktop (x64):
