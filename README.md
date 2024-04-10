@@ -1,7 +1,7 @@
 # Subscription Links:
 <br>
 
-### ⭐ 1st (Worker):
+### ⭐ 1st (Worker <100kpd>):
 ```html
 https://hueco.link/v.txt
 ```
