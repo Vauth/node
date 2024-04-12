@@ -1,7 +1,7 @@
 # Subscription Links:
 <br>
 
-### ⭐ 1st (Worker <100kpd>):
+### ⭐ 1st ([Workers](https://github.com/Vauth/vless-cf) <100kpd>):
 ```html
 https://hueco.link/v.txt
 ```
