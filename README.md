@@ -18,7 +18,7 @@ https://github.com/Vauth/node/raw/main/Master
 
 ### 🚀 Desktop (x64):
 ```html
-https://github.com/Vauth/node/releases
+https://github.com/Vauth/vox/releases
 ```
 
 <br>
