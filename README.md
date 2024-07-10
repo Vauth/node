@@ -3,7 +3,7 @@
 
 ### ⭐ 1st ([Workers](https://github.com/Vauth/vless-cf) <100k demo>):
 ```html
-https://hueco.link/v.txt
+https://ivuxy.tech/v.txt
 ```
 
 ### ◻️ 2nd (Vless):
