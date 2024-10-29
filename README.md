@@ -11,11 +11,6 @@ https://ivuxy.tech/v.txt
 https://github.com/Vauth/node/raw/main/Main
 ```
 
-### ◻️ 3rd (Vmess):
-```html
-https://github.com/Vauth/node/raw/main/Master
-```
-
 ### 🚀 Desktop (x64):
 ```html
 https://github.com/Vauth/vox/releases
