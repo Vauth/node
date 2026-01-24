@@ -3,16 +3,16 @@
 
 ### ⭐ 1st ([Workers](https://github.com/Vauth/vless-cf) <100k demo>):
 ```html
-https://ivuxy.tech/v.txt
+https://vauth.github.io/hueco/v.txt
 ```
 
 ### ◻️ 2nd (Vless):
-```html
-https://github.com/Vauth/node/raw/main/Main
+```
+NO MORE UPDATE
 ```
 
 ### 🚀 Desktop (x64):
-```html
+```
 https://github.com/Vauth/vox/releases
 ```
 
